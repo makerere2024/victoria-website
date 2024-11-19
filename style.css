@@ -22,10 +22,11 @@ header {
 }
 
 .profile-photo {
-    width: 45px;
+    width: 35px;
     height: 50px;
-    border-radius: 45%;
+    border-radius: 20%;
     border: 3px solid #fff;
+    align-item: center;
 }
 
 nav ul {
